@@ -35,5 +35,3 @@ for postagem in blog.listar_postagens_public():
 print("Todas as postagens:")
 for postagem in blog.listar_postagens():
     print(postagem)
-
-print(postagem01.rodape)
